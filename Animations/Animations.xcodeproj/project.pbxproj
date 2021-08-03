@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		162C067226ADFCFF00655890 /* GuessTheFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162C067126ADFCFF00655890 /* GuessTheFlagApp.swift */; };
-		162C067426ADFCFF00655890 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162C067326ADFCFF00655890 /* ContentView.swift */; };
-		162C067626ADFD0100655890 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162C067526ADFD0100655890 /* Assets.xcassets */; };
-		162C067926ADFD0100655890 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162C067826ADFD0100655890 /* Preview Assets.xcassets */; };
+		1609548F26B82BBF00F22441 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1609548E26B82BBF00F22441 /* AnimationsApp.swift */; };
+		1609549126B82BBF00F22441 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1609549026B82BBF00F22441 /* ContentView.swift */; };
+		1609549326B82BC000F22441 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1609549226B82BC000F22441 /* Assets.xcassets */; };
+		1609549626B82BC000F22441 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1609549526B82BC000F22441 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		162C066E26ADFCFF00655890 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		162C067126ADFCFF00655890 /* GuessTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagApp.swift; sourceTree = "<group>"; };
-		162C067326ADFCFF00655890 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		162C067526ADFD0100655890 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		162C067826ADFD0100655890 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		162C067A26ADFD0100655890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1609548B26B82BBF00F22441 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1609548E26B82BBF00F22441 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
+		1609549026B82BBF00F22441 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1609549226B82BC000F22441 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1609549526B82BC000F22441 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1609549726B82BC000F22441 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		162C066B26ADFCFF00655890 /* Frameworks */ = {
+		1609548826B82BBF00F22441 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +33,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		162C066526ADFCFF00655890 = {
+		1609548226B82BBF00F22441 = {
 			isa = PBXGroup;
 			children = (
-				162C067026ADFCFF00655890 /* GuessTheFlag */,
-				162C066F26ADFCFF00655890 /* Products */,
+				1609548D26B82BBF00F22441 /* Animations */,
+				1609548C26B82BBF00F22441 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		162C066F26ADFCFF00655890 /* Products */ = {
+		1609548C26B82BBF00F22441 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				162C066E26ADFCFF00655890 /* GuessTheFlag.app */,
+				1609548B26B82BBF00F22441 /* Animations.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		162C067026ADFCFF00655890 /* GuessTheFlag */ = {
+		1609548D26B82BBF00F22441 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
-				162C067126ADFCFF00655890 /* GuessTheFlagApp.swift */,
-				162C067326ADFCFF00655890 /* ContentView.swift */,
-				162C067526ADFD0100655890 /* Assets.xcassets */,
-				162C067A26ADFD0100655890 /* Info.plist */,
-				162C067726ADFD0100655890 /* Preview Content */,
+				1609548E26B82BBF00F22441 /* AnimationsApp.swift */,
+				1609549026B82BBF00F22441 /* ContentView.swift */,
+				1609549226B82BC000F22441 /* Assets.xcassets */,
+				1609549726B82BC000F22441 /* Info.plist */,
+				1609549426B82BC000F22441 /* Preview Content */,
 			);
-			path = GuessTheFlag;
+			path = Animations;
 			sourceTree = "<group>";
 		};
-		162C067726ADFD0100655890 /* Preview Content */ = {
+		1609549426B82BC000F22441 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				162C067826ADFD0100655890 /* Preview Assets.xcassets */,
+				1609549526B82BC000F22441 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -72,38 +72,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		162C066D26ADFCFF00655890 /* GuessTheFlag */ = {
+		1609548A26B82BBF00F22441 /* Animations */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 162C067D26ADFD0100655890 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */;
+			buildConfigurationList = 1609549A26B82BC000F22441 /* Build configuration list for PBXNativeTarget "Animations" */;
 			buildPhases = (
-				162C066A26ADFCFF00655890 /* Sources */,
-				162C066B26ADFCFF00655890 /* Frameworks */,
-				162C066C26ADFCFF00655890 /* Resources */,
+				1609548726B82BBF00F22441 /* Sources */,
+				1609548826B82BBF00F22441 /* Frameworks */,
+				1609548926B82BBF00F22441 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = GuessTheFlag;
-			productName = GuessTheFlag;
-			productReference = 162C066E26ADFCFF00655890 /* GuessTheFlag.app */;
+			name = Animations;
+			productName = Animations;
+			productReference = 1609548B26B82BBF00F22441 /* Animations.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		162C066626ADFCFF00655890 /* Project object */ = {
+		1609548326B82BBF00F22441 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					162C066D26ADFCFF00655890 = {
+					1609548A26B82BBF00F22441 = {
 						CreatedOnToolsVersion = 12.5;
 					};
 				};
 			};
-			buildConfigurationList = 162C066926ADFCFF00655890 /* Build configuration list for PBXProject "GuessTheFlag" */;
+			buildConfigurationList = 1609548626B82BBF00F22441 /* Build configuration list for PBXProject "Animations" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,42 +111,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 162C066526ADFCFF00655890;
-			productRefGroup = 162C066F26ADFCFF00655890 /* Products */;
+			mainGroup = 1609548226B82BBF00F22441;
+			productRefGroup = 1609548C26B82BBF00F22441 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				162C066D26ADFCFF00655890 /* GuessTheFlag */,
+				1609548A26B82BBF00F22441 /* Animations */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		162C066C26ADFCFF00655890 /* Resources */ = {
+		1609548926B82BBF00F22441 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				162C067926ADFD0100655890 /* Preview Assets.xcassets in Resources */,
-				162C067626ADFD0100655890 /* Assets.xcassets in Resources */,
+				1609549626B82BC000F22441 /* Preview Assets.xcassets in Resources */,
+				1609549326B82BC000F22441 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		162C066A26ADFCFF00655890 /* Sources */ = {
+		1609548726B82BBF00F22441 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				162C067426ADFCFF00655890 /* ContentView.swift in Sources */,
-				162C067226ADFCFF00655890 /* GuessTheFlagApp.swift in Sources */,
+				1609549126B82BBF00F22441 /* ContentView.swift in Sources */,
+				1609548F26B82BBF00F22441 /* AnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		162C067B26ADFD0100655890 /* Debug */ = {
+		1609549826B82BC000F22441 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		162C067C26ADFD0100655890 /* Release */ = {
+		1609549926B82BC000F22441 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -262,44 +262,44 @@
 			};
 			name = Release;
 		};
-		162C067E26ADFD0100655890 /* Debug */ = {
+		1609549B26B82BC000F22441 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"GuessTheFlag/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Animations/Preview Content\"";
 				DEVELOPMENT_TEAM = P5ST498MF7;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = GuessTheFlag/Info.plist;
+				INFOPLIST_FILE = Animations/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.stevenyuser.GuessTheFlag;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stevenyuser.Animations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		162C067F26ADFD0100655890 /* Release */ = {
+		1609549C26B82BC000F22441 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"GuessTheFlag/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Animations/Preview Content\"";
 				DEVELOPMENT_TEAM = P5ST498MF7;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = GuessTheFlag/Info.plist;
+				INFOPLIST_FILE = Animations/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.stevenyuser.GuessTheFlag;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stevenyuser.Animations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		162C066926ADFCFF00655890 /* Build configuration list for PBXProject "GuessTheFlag" */ = {
+		1609548626B82BBF00F22441 /* Build configuration list for PBXProject "Animations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				162C067B26ADFD0100655890 /* Debug */,
-				162C067C26ADFD0100655890 /* Release */,
+				1609549826B82BC000F22441 /* Debug */,
+				1609549926B82BC000F22441 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		162C067D26ADFD0100655890 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */ = {
+		1609549A26B82BC000F22441 /* Build configuration list for PBXNativeTarget "Animations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				162C067E26ADFD0100655890 /* Debug */,
-				162C067F26ADFD0100655890 /* Release */,
+				1609549B26B82BC000F22441 /* Debug */,
+				1609549C26B82BC000F22441 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 162C066626ADFCFF00655890 /* Project object */;
+	rootObject = 1609548326B82BBF00F22441 /* Project object */;
 }

@@ -15,4 +15,6 @@ Link: https://www.hackingwithswift.com/100/swiftui
 * [RockPaperScissors](https://github.com/stevenyuser/100DaysOfSwiftUI/tree/main/RockPaperScissors)
     * Milestone: Projects 1-3 (Day 25)
 * [BetterRest](https://github.com/stevenyuser/100DaysOfSwiftUI/tree/main/BetterRest)
-    * Project 4 (Days 26-27)
+    * Project 4 (Days 26-28)
+* [WordScramble](https://github.com/stevenyuser/100DaysOfSwiftUI/tree/main/WordScramble)
+    * Project 5 (Days 29-31)
